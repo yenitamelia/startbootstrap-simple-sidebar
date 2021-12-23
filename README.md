@@ -70,3 +70,4 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-simple-sidebar/blob/master/LICENSE) license.
 "# 221810660-yenita-disjas-uas" 
+"# 221810660-yenita-disjas-uas" 
